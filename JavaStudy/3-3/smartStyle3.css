@@ -1,0 +1,50 @@
+@media screen and (max-width: 479px) {
+    .wrapper {
+        width: 200px;
+    }
+
+    .header {
+        height: 200px;
+    }
+
+    .header-whitebox {
+        position: absolute;
+        right: 70px; 
+        width: 60px;
+        height: 160px;
+    }
+
+    .header-redbox1 {
+        margin: 10px 10px 0 10px;
+    }
+
+    .header-redbox3 {
+        margin: 0px 10px 10px 10px;
+    }
+
+    .left {
+        width: 200px;
+        height: 100px;
+    }
+
+    .right {
+        width: 200px;
+        height: 230px;
+    }
+
+    .right-box1 {
+        width: 130px;
+        margin: 20px 30px 0 30px;
+    }
+
+    .right-box2 {
+        width: 130px;
+        margin: 20px 10px 0 30px;
+    }
+
+    .right-box3 {
+        width: 130px;
+        margin: 20px 10px 0 30px;
+    }
+
+}
