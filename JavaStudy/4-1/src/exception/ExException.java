@@ -88,7 +88,7 @@ public class ExException {
             } catch (ArrayIndexOutOfBoundsException e) {
                 printException(e);
                 // 問③: クラスキャストの例外をキャッチしなさい。
-                // ルール: 上述の他の例外同様引、数名は「e」で記述すること。
+                // ルール: 上述の他の例外同様引、数名は「e」で記述すること
             } catch (ClassCastException e) {
                 printException(e);
             } finally {
